@@ -137,7 +137,7 @@ pip install -r requirements.txt
 
 ## 🖼️ Скриншоты
 
-![Картинка](https://github.com/RoKols2017/TG04/img.png)
+![Картинка](https://github.com/RoKols2017/TG04/blob/master/img.PNG)
 
 
 ---
